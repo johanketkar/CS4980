@@ -1,0 +1,7 @@
+name,bssid,device_id,device_label,mac_address,ssid,timestamp
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1599096914835
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1599096974843
+sensor_wifi,c4:13:e2:5e:c3:d6,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1599097034841
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1599097094843
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1599098805422
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1599133075352

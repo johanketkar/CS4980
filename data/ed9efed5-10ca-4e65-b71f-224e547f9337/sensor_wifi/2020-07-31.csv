@@ -1,0 +1,14 @@
+name,bssid,device_id,device_label,mac_address,ssid,timestamp
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1596178867323
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1596178930038
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1596179010538
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1596179059868
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1596179094294
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1596179154253
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1596179214787
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1596179258077
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1596179299011
+sensor_wifi,3c:7a:8a:1f:b8:54,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,"""MiCasa2""",1596222653665
+sensor_wifi,3c:7a:8a:1f:b8:54,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,"""MiCasa2""",1596222692765
+sensor_wifi,3c:7a:8a:1f:b8:54,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,"""MiCasa2""",1596222751626
+sensor_wifi,3c:7a:8a:1f:b8:54,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,"""MiCasa2""",1596222799644

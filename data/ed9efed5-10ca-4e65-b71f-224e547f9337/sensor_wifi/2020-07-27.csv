@@ -1,0 +1,28 @@
+name,bssid,device_id,device_label,mac_address,ssid,timestamp
+sensor_wifi,3c:7a:8a:1f:b8:54,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,"""MiCasa2""",1595876935906
+sensor_wifi,3c:7a:8a:1f:b8:54,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,"""MiCasa2""",1595877012557
+sensor_wifi,02:00:00:00:00:00,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595877027348
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595877082609
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595877097263
+sensor_wifi,3c:7a:8a:1f:b8:54,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,"""MiCasa2""",1595879085594
+sensor_wifi,3c:7a:8a:1f:b8:54,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,"""MiCasa2""",1595879120077
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595884460295
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595884523497
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595884585453
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595886512092
+sensor_wifi,02:00:00:00:00:00,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595886521056
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595888271155
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595888289584
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595888700502
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595889062079
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595889870808
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595891115396
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595892255143
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595892272043
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595892283620
+sensor_wifi,,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,<unknown ssid>,1595892288600
+sensor_wifi,88:b1:e1:53:eb:a2,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,"""TGI Fridays Guest Wifi""",1595892296183
+sensor_wifi,88:b1:e1:53:eb:a2,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,"""TGI Fridays Guest Wifi""",1595893615208
+sensor_wifi,88:b1:e1:53:eb:a2,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,"""TGI Fridays Guest Wifi""",1595893717613
+sensor_wifi,88:b1:e1:53:eb:a2,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,"""TGI Fridays Guest Wifi""",1595894030669
+sensor_wifi,88:b1:e1:53:eb:a2,ed9efed5-10ca-4e65-b71f-224e547f9337,229CY,02:00:00:00:00:00,"""TGI Fridays Guest Wifi""",1595894108291

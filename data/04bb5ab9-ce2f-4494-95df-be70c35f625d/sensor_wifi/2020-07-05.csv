@@ -1,0 +1,892 @@
+name,bssid,device_id,device_label,mac_address,ssid,timestamp
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593908692024
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593908751558
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593908811891
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593908857289
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593908865858
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593908876183
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593908936574
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909025381
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909097301
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909156369
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909176624
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909236465
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909316994
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909396508
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909416736
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909476502
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909556490
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909636530
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909667471
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909765744
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909787457
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909847422
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909951233
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593909967257
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593910069801
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593910087401
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593910149909
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593910230056
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593910309925
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593910327331
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593910390034
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593910469856
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593910509076
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593910568023
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593910865935
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593910872297
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593910941640
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593910987351
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911047355
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911108105
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911167596
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911247516
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911327408
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911391232
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911448142
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911467560
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911565813
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911614495
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911669951
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911749864
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911798394
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911854026
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911917457
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593911980607
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912048706
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912109007
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912127285
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912189209
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912269064
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912349121
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912367325
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912465779
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912487335
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912547233
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912627454
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912707387
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912743616
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912787269
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912867539
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912947740
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593912996705
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593913027488
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593913132218
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593913147242
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593913634178
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593913687322
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593913747169
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593913827207
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593913907241
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593913927454
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593913987364
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914067143
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914147353
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914167216
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914227215
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914307332
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914387317
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914411282
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914467362
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914547348
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914627466
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914647433
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914707710
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914787591
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914867477
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914887335
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593914951561
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915031726
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915111548
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915138603
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915191563
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915271575
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915308297
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915367735
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915447441
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915527466
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915547901
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915607452
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915687725
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915729328
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915787689
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915867640
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915907690
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593915967497
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593916047500
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593916104393
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593916164710
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593916997813
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917065898
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917121425
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917161332
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917254077
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917275263
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917335588
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917415253
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917459432
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917478397
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917524027
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917593662
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917635185
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917699975
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917779951
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917859768
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917875199
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593917939820
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918020111
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918099860
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918117448
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918179858
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918261377
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918321879
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918364884
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918447158
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918475132
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918538109
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918573652
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918617781
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918697825
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918738325
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918788575
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918868551
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918948291
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593918968393
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919028592
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919120949
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919148486
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919208488
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919288588
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919332378
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919368474
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919430901
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919489103
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919562361
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919607831
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919668004
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919748063
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919827973
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919860241
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919907942
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593919991817
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593920071925
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593920103972
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593920151785
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593920232449
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593920267798
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593920351703
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593920431784
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593920486296
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593920538481
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593924340303
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593924387079
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593924446818
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593924507108
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593924567124
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593924627134
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593924686966
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593924747149
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593924807118
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593924866809
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593924927141
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593924987120
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925047124
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925107147
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925167103
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925227128
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925286800
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925347074
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925407136
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925467110
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925527218
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925587107
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925647129
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925707052
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925767187
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925827086
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925886818
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593925947137
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926007114
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926067150
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926127149
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926187086
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926246805
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926306810
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926367162
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926427140
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926487187
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926547113
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926607158
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926667120
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926727095
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926787153
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926847105
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926907149
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593926967125
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927027148
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927087088
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927147163
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927207152
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927260919
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927318934
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927379197
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927463756
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927498894
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927559230
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927619232
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927679231
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927739231
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927834539
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927859171
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927918892
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593927979222
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928039172
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928099211
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928159203
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928219228
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928279215
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928339181
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928440038
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928459232
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928519260
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928579215
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928639308
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928699209
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928759296
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928819219
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928879118
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928939200
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593928998905
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929058883
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929119206
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929179191
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929238990
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929299209
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929359203
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929419219
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929479214
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929539226
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929599213
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929659229
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929719243
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929779203
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929839260
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929899211
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593929959229
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930019226
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930079213
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930139209
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930199295
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930259201
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930319244
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930379235
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930439247
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930499264
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930559222
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930619227
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930679215
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930739208
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930799233
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930859176
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930919100
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593930979203
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931064239
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931099236
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931159214
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931219202
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931279219
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931339219
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931399220
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931459155
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931519217
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931579195
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931639202
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931699207
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931759312
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931819129
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931879231
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931938906
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593931999205
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932059205
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932119208
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932179193
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932239217
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932299227
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932359135
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932419203
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932479715
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932539114
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932599224
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932658887
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932719145
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932779198
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932839206
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932898903
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593932959310
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933019233
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933079216
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933139219
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933199226
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933259230
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933319195
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933379183
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933439216
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933499213
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933559198
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933619203
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933679191
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933739236
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933799213
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933858887
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933887653
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593933946483
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934006417
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934066421
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934126109
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934186095
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934246409
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934306397
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934366430
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934426444
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934486391
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934546371
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934606425
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934666404
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934726428
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934786422
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934846429
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934933646
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593934966356
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935034552
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935086355
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935146284
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935206380
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935266407
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935326373
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935386086
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935462237
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935506365
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935566423
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935626387
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935686393
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935746415
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935806320
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935866407
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935926426
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593935986432
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936046440
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936106474
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936166445
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936226404
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936286430
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936346434
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936406410
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936466406
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936526407
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936586414
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936646389
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936733416
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936766410
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936826104
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936886096
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593936946394
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937006093
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937066104
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937126409
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937186425
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937246355
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937306406
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937366419
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937426394
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937486410
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937546405
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937606387
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937666420
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937726415
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937786410
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937846414
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937906406
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593937966503
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938026325
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938086405
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938146422
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938206423
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938266402
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938326105
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938386422
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938446413
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938533727
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938566408
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938626410
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938686426
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938746091
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938806087
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938866403
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938926503
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593938986382
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939046390
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939106464
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939166410
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939226097
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939286382
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939346083
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939406406
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939466090
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939526396
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939586408
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939646458
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939706419
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939766437
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939826403
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939886480
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593939946363
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940006401
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940066419
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940126423
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940186104
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940246427
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940333708
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940366401
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940426384
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940486397
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940546513
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940606424
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940666401
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940726491
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940786436
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940846906
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940906273
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593940966399
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941026416
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941086402
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941146491
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941206408
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941266421
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941326514
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941386333
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941446403
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941506391
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941566437
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941626441
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941686407
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941746395
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941806382
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941866410
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941926549
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593941986090
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942046404
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942106391
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942166420
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942234545
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942286420
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942346377
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942406408
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942466425
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942526440
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942586427
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942646392
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942706413
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942766430
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942826416
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942886501
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593942946411
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943006401
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943066088
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943126513
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943186145
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943246459
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943306303
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943366128
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943426342
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943486065
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943546358
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943606412
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943666424
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943726405
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943786392
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943846092
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943933723
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593943966410
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593944026143
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593944086083
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593944146368
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593944206438
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593944266384
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593944326397
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593944386421
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593944446399
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593944506366
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593944566512
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593944626418
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593944686198
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593944717587
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593944723420
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593944736205
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593944797297
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593944877260
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593944903158
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593944983891
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945064055
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945083198
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945143854
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945224082
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945304156
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945352611
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945383872
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945463892
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945544185
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945563236
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945663893
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945682986
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945743918
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945823971
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945903960
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945961403
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593945983905
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946064071
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946143996
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946162907
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946252678
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946283134
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946342998
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946422861
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946503382
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946508396
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946583069
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946663047
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946688310
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946748335
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946828686
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946908448
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946928479
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593946988648
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947068121
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947152464
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947168483
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947232681
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947312603
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947393686
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947408356
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947475899
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947563911
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947593107
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947655656
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947736370
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947799644
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947855570
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947888342
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593947983694
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948059031
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948083718
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948170086
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948195749
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948250830
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948312833
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948368982
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948458855
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948489181
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948548806
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948629013
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948709051
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948755692
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948788920
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948868937
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948952553
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593948968868
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949032484
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949112622
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949192438
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949208776
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949300230
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949338516
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949389039
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949469566
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949509037
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949568935
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949656655
+sensor_wifi,f2:9f:c2:c9:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949688870
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949756575
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949852555
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949913343
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593949932508
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950012914
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950092717
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950113220
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950200302
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950228935
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950291343
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950369189
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950448898
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950468991
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950529713
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950609001
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950654233
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950677183
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950708893
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950768936
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950792194
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950848584
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950889781
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593950987707
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951035160
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951061712
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951069111
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951138555
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951162762
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951188856
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951217349
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951270425
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951281207
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951337217
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951402849
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951428915
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951509001
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951589161
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951652523
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951706650
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951731434
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951789032
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951868891
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951912808
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593951969336
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952050470
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952129981
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952148815
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952211029
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952301934
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952328876
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952388836
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952468968
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952552619
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952568729
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952632557
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952712634
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952792571
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952808856
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952900233
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593952945383
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593954641294
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593954710261
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593954759371
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593954839523
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593954920002
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593954947141
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593954999210
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955079232
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955159437
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955204934
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955276150
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955331700
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955359473
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955439447
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955521524
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955550170
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955572068
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955628392
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955707862
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955787728
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955811198
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955867902
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593955947980
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593956027715
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593956061506
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593956141668
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593956175979
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593956227799
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593956307937
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593958128815
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593958186138
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593958244488
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593958304179
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593958384434
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593958464326
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593958518700
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593958544444
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593958624462
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593958704560
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593958724405
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593958784338
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593958858895
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593958904372
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593958984336
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959064281
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959119887
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959172763
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959204484
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959252728
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959333139
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959348028
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959412602
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959492649
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959572647
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959603694
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959652617
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959732717
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959745808
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959777465
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593959832255
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593960022362
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593960075976
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593960138445
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593960218521
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593960247966
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593960570502
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593960621114
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593960667908
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593960745176
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593960811580
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593960872149
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593961330851
+sensor_wifi,f2:9f:c2:ca:48:5a,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Hotel-Tabard-Guest""",1593961392884
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593965715482
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593965726193
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593965775160
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593965834360
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593967967004
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593969315692
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593969406145
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593969469306
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593970009985
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593970107770
+sensor_wifi,18:1b:eb:7d:02:46,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""RHXLF""",1593972738936
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593973340703
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593973396316
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593973459521
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593979573343
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593979579993
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593979644143
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593980082772
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593980155014
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593980182926
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593980275423
+sensor_wifi,9c:1c:12:17:59:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""Starbucks WiFi""",1593980299356
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593980365900
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593981199112
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593981252789
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593981315379
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593981366310
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593981428791
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593981486706
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593981536616
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593981557358
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593983422544
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593983467602
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593983563354
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593983599962
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593983680091
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593983721319
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593983781463
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593983842188
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593983907810
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593983962072
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984033258
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984093413
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984127455
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984229728
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984247706
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984323044
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984411353
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984471857
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984491356
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984571443
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984652393
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984684253
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984733781
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984823528
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984883675
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984914160
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593984985688
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593985065695
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593985125788
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593985145725
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593985786604
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593985810930
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593985893875
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593985969756
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593986000858
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593986045024
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593986117214
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593986120219
+sensor_wifi,,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593986410582
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593987414188
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593987467564
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593987527582
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593987588808
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593987648989
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593987707891
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593987776007
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593987836899
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593987896659
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593987988870
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988070590
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988130996
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988210089
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988280229
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988345213
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988367438
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988427549
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988489050
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988547506
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988607630
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988667506
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988737741
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988788786
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988821547
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988850322
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988947531
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593988967588
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989061727
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989106442
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989180075
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989252379
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989267537
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989337228
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989387550
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989464568
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989544313
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989574002
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989627520
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989727535
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989751253
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989847554
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989894333
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593989927919
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593990007782
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593990087512
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593990138531
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593990168380
+sensor_wifi,02:00:00:00:00:00,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,<unknown ssid>,1593990247586
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593990356734
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593990842829
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593991394109
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593991563497
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593991620857
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593991700953
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593991780649
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593991805138
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593991860678
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593991941129
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992020559
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992040558
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992100688
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992180873
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992260936
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992316245
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992347985
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992437210
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992467949
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992649119
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992719021
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992758257
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992778996
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992828892
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992888726
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593992948427
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593993008679
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593993068821
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593993127732
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593993188625
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593993268827
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593993346356
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593993367658
+sensor_wifi,18:1b:eb:a9:0f:f0,04bb5ab9-ce2f-4494-95df-be70c35f625d,168MR,02:00:00:00:00:00,"""O6D22""",1593993444225

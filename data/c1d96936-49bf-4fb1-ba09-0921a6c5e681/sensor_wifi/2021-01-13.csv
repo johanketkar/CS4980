@@ -1,0 +1,1441 @@
+name,bssid,device_id,device_label,mac_address,ssid,timestamp
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496015360
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496075360
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496135357
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496195430
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496255454
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496315358
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496375454
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496435451
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496495454
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496555361
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496615453
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496675454
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496735453
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496795428
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496855451
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496915453
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610496975453
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610497035400
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610497095450
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610497155440
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610497215452
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610497275352
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610497335377
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610497395375
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610497455454
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610497515450
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610497575440
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610497635391
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610497695364
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610497755367
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610497815358
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610497875441
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610497935357
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610497995363
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498055362
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498115457
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498175361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498235362
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498295362
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498355457
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498415362
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498475362
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498535362
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498595368
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498655363
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498715361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498775362
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498835431
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498895361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610498955362
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499015362
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499075380
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499135361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499195361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499255362
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499315413
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499375361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499435361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499495361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499555384
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499615361
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499675360
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499735359
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499795397
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499855361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499915361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610499975361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500035456
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500095361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500155361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500215360
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500275453
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500335360
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500395361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500455361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500515455
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500575360
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500635360
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500695355
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500755453
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500815360
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500875360
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500935360
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610500995413
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501055360
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501115356
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501175359
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501235360
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501295360
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501355359
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501415358
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501475413
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501535356
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501595359
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501655360
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501715416
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501775359
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501835359
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501895359
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610501955432
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502015353
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502075454
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502135454
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502195444
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502255442
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502315350
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502375351
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502435351
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502495470
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502555444
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502615351
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502675350
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502735348
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502795358
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502855353
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502915343
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610502975349
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503035860
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503095348
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503155345
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503215354
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503275351
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503335434
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503395339
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503455344
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503515348
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503575344
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503635338
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503695348
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503755347
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503815421
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503875346
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503935346
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610503995342
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504055402
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504115341
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504175344
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504235342
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504295375
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504355351
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504415345
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504475346
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504535435
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504595345
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504655339
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504715315
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504775344
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504835312
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504895311
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610504955310
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505015341
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505075308
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505135307
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505195306
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505255331
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505315304
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505375303
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505435300
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505495360
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505555300
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505615299
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505675299
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505735345
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505795296
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505855295
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505915295
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610505975361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506035292
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506095292
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506155290
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506215314
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506275288
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506335287
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506395286
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506455356
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506515318
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506575317
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506635313
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506695347
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506755317
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506815311
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506875321
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506935370
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610506995307
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507055309
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507115318
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507175402
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507235310
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507295313
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507355313
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507415408
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507475311
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507535311
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507595311
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507655409
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507715306
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507775312
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507835310
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507895404
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610507955306
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508015288
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508075289
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508135383
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508195288
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508255286
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508315287
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508375380
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508435283
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508495278
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508555282
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508615375
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508675280
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508735281
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508795277
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508855322
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508915278
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610508975275
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509035276
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509095335
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509155275
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509215274
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509275273
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509335310
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509395272
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509455270
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509515282
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509575407
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509635312
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509695311
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509755313
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509815679
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509875312
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509935312
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610509995311
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510055312
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510115330
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510175311
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510235312
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510295319
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510355345
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510415312
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510475312
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510535313
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510595317
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510655311
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510715312
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510775307
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510835375
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510895311
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610510955312
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511015295
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511075330
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511135286
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511195284
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511255285
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511315380
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511375284
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511435283
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511495283
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511555378
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511615282
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511675280
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511735281
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511795376
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511855280
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511915276
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610511975276
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512035326
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512095279
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512155279
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512215279
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512275331
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512335273
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512395277
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512455277
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512515371
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512575275
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512635275
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512695274
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512755292
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512815274
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512875274
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512935270
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610512995324
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513055269
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513115268
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513175267
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513235362
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513295267
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513355266
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513415266
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513475262
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513535265
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513595264
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513655266
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513715321
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513775263
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513835263
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513895262
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610513955311
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514015259
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514075261
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514135255
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514195324
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514255259
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514315258
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514375258
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514435353
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514495285
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514555294
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514615295
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514675389
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514735294
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514795294
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514855295
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514915352
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610514975294
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515035294
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515095295
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515155348
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515215292
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515275292
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515335296
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515395318
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515455295
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515515295
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515575296
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515635375
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515695341
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515755342
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515815343
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515875412
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515935344
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610515995345
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516055347
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516115360
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516175347
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516235348
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516295349
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516356250
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516415351
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516475348
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516535351
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516595349
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516655357
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516715355
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516775355
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516835356
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516895432
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610516955357
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517015357
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517075359
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517135455
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517195360
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517255361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517315362
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517375367
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517435364
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517495364
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517555365
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517615461
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517675366
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517735368
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517795369
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517855374
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517915370
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610517975370
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518035371
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518095391
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518155372
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518215367
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518275375
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518335395
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518395376
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518455377
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518515378
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518575391
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518635379
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518695381
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518755377
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518815477
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518875382
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518935277
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610518995275
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519055369
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519115272
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519175270
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519235265
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519295354
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519355266
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519415264
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519475263
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519535263
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519595260
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519655255
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519715257
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519775340
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519835253
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519895248
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610519955251
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520015344
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520075248
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520135247
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520195245
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520255255
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520315242
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520375240
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520435239
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520495315
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520555217
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520615215
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520675213
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520735306
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520795210
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520855208
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520915207
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610520975271
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521035203
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521095201
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521155199
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521215291
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521275195
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521335191
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521395274
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521455272
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521515268
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521575272
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521635272
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521695269
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521755265
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521815270
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521875267
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521935362
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610521995263
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522055268
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522115274
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522175337
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522235262
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522295261
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522355262
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522415284
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522475264
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522535262
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522595262
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522655357
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522715261
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522775259
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522835260
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522897206
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610522955259
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523015253
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523075251
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523135258
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523195345
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523255246
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523315250
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523375249
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523435343
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523495247
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523555242
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523615242
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523675339
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523735241
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523795243
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523855244
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523915327
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610523975240
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524035241
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524095240
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524155288
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524215240
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524275235
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524335237
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524395312
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524455235
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524515270
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524575284
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524635335
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524695283
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524755282
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524815284
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524875352
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524935284
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610524995284
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525055285
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525115379
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525175284
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525235284
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525295288
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525355282
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525415285
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525475284
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525535285
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525595380
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525655285
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525715280
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525775281
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525835366
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525895286
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610525955297
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526015332
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526075411
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526135329
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526195333
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526255335
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526315349
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526375337
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526435333
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526495338
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526555418
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526615338
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526675335
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526735336
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526795349
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526855344
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526915345
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610526975347
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527035358
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527095348
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527155348
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527215350
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527275361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527335350
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527395351
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527455352
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527515434
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527575353
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527635354
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527695356
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527755400
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527815356
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527875358
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527935358
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610527995403
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528055360
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528115362
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528175359
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528235406
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528295364
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528355357
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528415345
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528475387
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528535344
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528595344
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528655341
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528715388
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528775345
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528835345
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528895348
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610528955389
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529015347
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529075347
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529135351
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529195389
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529255348
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529315344
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529375353
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529435434
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529495349
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529555349
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529615325
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529675366
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529735324
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529795324
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529855324
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529915365
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610529975322
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530035323
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530095323
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530157044
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530215318
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530275322
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530335321
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530395322
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530455362
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530515322
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530575319
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530635321
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530695361
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530755320
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530815320
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530875319
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530935394
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610530995320
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531055319
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531115316
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531175358
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531235318
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531295318
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531355319
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531415356
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531475318
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531535318
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531595318
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531655353
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531715317
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531775317
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531835317
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531895350
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610531955293
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532015291
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532075286
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532135329
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532195289
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532255287
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532315285
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532375368
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532435285
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532495284
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532555284
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532615320
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532675278
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532735281
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532795279
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532855317
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532915278
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610532975277
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533035277
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533095313
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533155275
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533215274
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533275273
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533335346
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533395271
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533455271
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533515270
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533575305
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533635267
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533695251
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533755242
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533815281
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533875244
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533935243
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610533995242
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534055276
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534115240
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534175238
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534235233
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534295304
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534355234
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534415233
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534475230
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534535266
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534595229
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534655223
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534715227
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534775260
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534835225
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534895224
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610534955221
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535015256
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535075219
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535135218
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535195217
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535255331
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535315264
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535375264
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535435263
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535495298
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535555263
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535615258
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535675259
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535735296
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535795261
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535855260
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535915260
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610535975294
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536035260
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536095259
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536155259
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536215292
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536275257
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536335253
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536395256
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536455289
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536515256
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536575255
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536635254
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536695326
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536755252
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536815289
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536875296
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536937391
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610536995296
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537055296
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537115296
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537175296
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537235386
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537295296
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537355297
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537415298
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537475331
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537535297
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537595298
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537655298
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537715332
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537775298
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537835298
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537895299
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610537955333
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538015298
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538075298
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538135299
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538195389
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538255300
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538315300
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538375300
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538435334
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538495300
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538555300
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538615302
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538675335
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538735301
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538795301
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538855302
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538915335
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610538975301
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539035301
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539095301
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539155368
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539215289
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539275288
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539335288
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539395321
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539455287
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539515287
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539575287
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539635320
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539695287
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539755287
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539815287
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539875319
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539935286
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610539995285
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540055286
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540115319
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540175289
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540235289
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540295290
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540355318
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540415279
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540475277
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540535273
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540595304
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540655276
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540715275
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540775275
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540835302
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540895275
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610540955274
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541015275
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541075301
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541135274
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541195274
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541255273
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541315299
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541375272
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541435272
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541495273
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541555298
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541615269
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541675267
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541735270
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541795296
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541855269
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541915270
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610541975271
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542035295
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542095269
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542155268
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542215260
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542275294
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542335263
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542395268
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542455267
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542515325
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542575266
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542635266
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542695265
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542755323
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542815264
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542875262
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542935263
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610542995320
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543055261
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543115261
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543175264
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543235318
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543295257
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543355260
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543415256
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543475317
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543535255
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543595257
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543655258
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543716917
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543775248
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543835258
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543895251
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610543955254
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544015311
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544075252
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544135254
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544195254
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544255310
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544315253
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544375250
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544435253
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544495308
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544555251
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544615251
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544675252
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544735308
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544795252
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544855250
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544915251
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610544975307
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545035250
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545095249
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545155249
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545215304
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545275247
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545335248
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545395249
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545455303
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545515247
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545575248
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545635247
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545695301
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545755246
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545815246
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545875245
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545935299
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610545995244
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546055244
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546115241
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546175297
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546235242
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546295243
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546355243
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546415330
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546475243
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546535243
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546595242
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546655295
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546715241
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546775237
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546835240
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546895293
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610546955239
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547015239
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547075235
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547135259
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547195239
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547255238
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547315238
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547375258
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547435238
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547495233
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547555237
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547615270
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547675252
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547735252
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547795250
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547855271
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547915251
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610547975251
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548035247
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548095269
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548155251
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548215251
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548275251
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548335269
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548395250
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548455251
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548515251
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548575268
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548635250
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548695250
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548755250
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548815268
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548875249
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548935250
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610548995250
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549055268
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549115250
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549175243
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549235246
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549295264
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549355244
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549415243
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549475245
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549535262
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549595245
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549655244
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549715245
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549775261
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549835244
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549895240
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610549955239
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610550015261
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610550075244
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610550135243
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610550195245
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610550255334
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610550315245
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610550375244
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610550435244
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610550495259
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610550555244
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610550615244
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610550675244
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610550735288
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610550795244
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610550855319
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610550915324
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610550975258
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610551035258
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610551095258
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610551155258
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610551215258
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610551275252
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610551335243
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610551395240
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610551455243
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610551515257
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610551575243
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610551635242
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610551695242
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610551755252
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610551815241
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610551875236
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610551935238
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610551997043
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552055241
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552115241
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552175240
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552235240
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552295252
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552355239
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552415239
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552475240
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552535253
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552595237
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552655235
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552715239
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552775252
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552835238
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552895234
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610552955239
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553015250
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553075238
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553135238
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553195234
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553255250
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553315237
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553375237
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553435237
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553495248
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553555236
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553615236
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553675234
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553735247
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553795236
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553855236
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553915236
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610553975319
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554035231
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554095235
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554155235
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554215246
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554275230
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554335230
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554395220
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554455231
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554515220
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554575220
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554635218
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554695228
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554755218
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554815217
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554875218
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554935293
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610554995213
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555055216
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555115215
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555175224
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555235209
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555295212
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555355213
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555415302
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555475212
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555535211
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555595210
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555655218
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555715204
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555775209
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555835208
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555895250
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610555955207
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556015203
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556075206
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556135214
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556195204
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556255203
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556315203
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556375212
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556435203
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556495202
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556555200
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556615208
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556675200
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556735200
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556795199
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556855245
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556915206
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610556975206
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557035206
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557095213
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557155205
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557215204
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557275203
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557335209
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557395202
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557455203
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557515203
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557575207
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557635202
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557695200
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557755201
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557815206
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557875200
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557935199
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610557995199
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558055204
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558115198
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558175197
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558235197
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558295203
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558355124
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558415122
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558475120
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558535124
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558595117
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558655115
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558715114
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558775119
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558835111
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558895107
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610558955108
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559016307
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559075105
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559135103
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559195102
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559255100
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559315103
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559375097
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559435096
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559495094
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559555096
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559615089
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559675086
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559735088
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559795168
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559855084
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559915079
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610559975078
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560035151
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560095079
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560155077
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560215076
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560275077
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560335072
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560395070
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560455069
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560515070
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560575123
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560635122
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560695122
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560755156
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560815119
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560875118
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560935118
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610560995119
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561055116
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561115115
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561175115
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561235116
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561295113
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561355112
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561415111
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561475114
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561535111
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561595110
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561655110
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561715110
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561775107
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561835105
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561895107
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610561955107
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562015105
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562075106
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562135131
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562195131
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562255131
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562315130
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562375123
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562435130
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562495130
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562555129
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562615124
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562675162
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562735124
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562795126
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562855128
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562915127
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610562975127
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563035126
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563095127
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563155124
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563215121
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563275125
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563335125
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563395154
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563455156
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563515155
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563575156
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563635155
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563695155
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563755156
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563815156
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563875156
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563935156
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610563995156
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564055157
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564115156
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564175157
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564235156
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564295157
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564355156
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564415155
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564475157
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564535157
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564595157
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564655157
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564715157
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564775158
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564835162
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564895165
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610564955164
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565015165
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565075166
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565135166
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565195166
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565255167
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565315166
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565375166
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565435167
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565495168
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565555167
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565615168
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565675168
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565735167
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565795168
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565855167
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565915169
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610565975169
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566037072
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566095169
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566155170
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566215170
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566275170
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566335170
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566395170
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566455170
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566515151
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566575150
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566635150
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566695149
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566755150
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566815183
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566875155
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566935155
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610566995156
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610567055183
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610567115151
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610567175155
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610567235152
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610567295182
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610567355155
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610567415154
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610567475155
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610567535182
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610567595152
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610567655154
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610567715181
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610567775182
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610567835361
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610567895319
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610567955304
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568015310
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568075305
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568135303
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568195319
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568255304
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568315303
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568375303
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568435304
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568495305
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568555303
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568615312
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568675303
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568735303
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568795303
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568855303
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610568915239
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610568975307
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610569035204
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610569095205
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610569155204
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610569215304
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610569275207
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610569335204
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610569395208
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610569455212
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610569515207
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610569575210
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610569635212
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610569695210
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610569755207
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610569815222
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610569875210
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610569935202
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610569995210
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610570055213
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610570115213
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610570175212
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610570235209
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610570295211
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610570355215
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610570415210
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610570475214
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610570535238
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610570595214
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610570655214
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610570715210
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610570775272
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610570835215
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610570895211
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610570955219
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571015302
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571075208
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571135213
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571195216
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571255309
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571315215
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571375214
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571435217
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571495307
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571555217
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571615207
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571675211
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571735308
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571795223
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571855215
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571915222
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610571975327
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572035213
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572095215
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572155215
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572215241
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572275220
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572335221
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572395220
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572455242
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572515221
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572575218
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572635223
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572695244
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572755223
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572815220
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572875224
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572935245
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610572995222
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573055224
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573115252
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573175313
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573235235
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573295221
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573355219
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573415310
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573475222
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573535221
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573595219
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573655241
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573715222
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573775222
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573835220
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573895308
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610573955222
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574015222
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574075221
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574135241
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574195222
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574255222
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574315219
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574375240
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574435221
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574495215
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574555221
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574615306
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574675221
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574735220
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574795220
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574855238
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574915220
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610574975220
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575035220
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575095237
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575155219
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575215220
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575275220
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575335237
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575395216
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575455219
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575515220
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575575237
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575635219
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575695218
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575755219
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575815303
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575875219
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575935218
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610575995219
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576055306
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576115219
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576175219
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576235218
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576295235
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576355218
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576415218
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576475218
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576535266
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576595217
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576655218
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576715215
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576775304
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576835213
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576895215
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610576955219
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610577015300
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610577075217
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610577135219
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610577195215
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610577255234
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610577315218
+sensor_wifi,3c:7a:8a:6d:80:94,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610577375211
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610577435234
+sensor_wifi,3c:7a:8a:6d:80:8e,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,Stein home,1610577495235
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610577555233
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610577615314
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610577675233
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610577735233
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610577795233
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610577855302
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610577915231
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610577975233
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610578035233
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610578095232
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610578155233
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610578215232
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610578275231
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610578335238
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610578395231
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610578455230
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610578515230
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610578575230
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610578635230
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610578695295
+sensor_wifi,de:88:26:2a:d3:13,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,myChevrolet,1610578755216
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610578815205
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610578875205
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610578935223
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610578995207
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579055206
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579115209
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579175222
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579235206
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579295209
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579355209
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579415221
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579475208
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579535208
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579595208
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579655220
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579715207
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579775202
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579835206
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579895219
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610579955206
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580015202
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580075202
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580135218
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580195206
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580255206
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580315205
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580375217
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580435202
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580495205
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580555205
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580615215
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580675204
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580735203
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580795201
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580855212
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580915203
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610580975203
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581035205
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581095287
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581155201
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581215204
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581275199
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581335719
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581395194
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581455189
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581515193
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581575186
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581635194
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581695194
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581755187
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581815198
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581875276
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581935187
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610581995186
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610582055188
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610582115200
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610582175189
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610582235188
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610582295188
+sensor_wifi,,c1d96936-49bf-4fb1-ba09-0921a6c5e681,2211CE,,,1610582355196

@@ -1,0 +1,622 @@
+name,bssid,device_id,device_label,mac_address,ssid,timestamp
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591228811908
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591228872252
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591228932456
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591228994309
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229054817
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229115169
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229175797
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229230841
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229288404
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229350802
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229412831
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229478891
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229534748
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229584796
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229644456
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229704557
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229765978
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229835765
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229898330
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591229958491
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230018560
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230089501
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230138543
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230202932
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230263319
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230323494
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230389094
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230438543
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230502100
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230573281
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230618884
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230680482
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230744769
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230805093
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230869234
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230929589
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591230981763
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231042109
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231107061
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231168842
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231219212
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231286098
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231348124
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231408621
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231458376
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231545958
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231578465
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231627396
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231687465
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231747523
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231807439
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231869584
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231932167
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591231994154
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232054537
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232114933
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232175379
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232238602
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232296203
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232356534
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232406872
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232467400
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232528557
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232588501
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232652047
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232712386
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232772724
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232833068
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232897943
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591232959029
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233019469
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233078099
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233138822
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233201033
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233253477
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233333708
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233413496
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233442909
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233488607
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233573532
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233653595
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233674830
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233767895
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233789839
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233844859
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233939937
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591233974171
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234067866
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234090459
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234176085
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234214105
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234265137
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234360779
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234394845
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234451358
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234509740
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234576162
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234636237
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234688725
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234749089
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234810341
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234871385
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234931693
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591234992182
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235060543
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235114266
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235175063
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235236881
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235292815
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235353390
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235414236
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235470503
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235529273
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235586989
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235647624
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235705355
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235765062
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235837706
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235893155
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591235944893
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236017194
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236077478
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236133873
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236182270
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236246703
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236326641
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236387093
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236435050
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236494453
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236554871
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236615404
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236669180
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236735599
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236811455
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236870591
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236923893
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591236981407
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237036643
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237059063
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237098211
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237159176
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237222750
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237283006
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237342523
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237404748
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237459655
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237523499
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237589130
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237642118
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237702619
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237762950
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237823807
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591237881264
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237918394
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591237949071
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238003065
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238064082
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238093682
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238124710
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238187890
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238238302
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238298659
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238359093
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238419511
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238495623
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238541292
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238603286
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238663899
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238718381
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238783749
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238838460
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238899966
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591238983948
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239025056
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239090980
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239139844
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239199909
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239252386
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239271999
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239278645
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239317461
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239323927
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239392600
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239480192
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239540640
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239603037
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239632663
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239712629
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239777408
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591239786086
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239808186
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239872162
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239894631
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591239899824
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591239903132
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239924822
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591239983323
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240043632
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240104379
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240167019
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240188119
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240231253
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240283870
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240345648
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240407385
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240473398
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240531436
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240584210
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240632594
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591240690902
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240752709
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240805907
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240866090
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240926415
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591240986767
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591241046610
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591241109664
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591241170047
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591241230329
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591241291297
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591241351274
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591241409793
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591241471176
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591241532573
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591241585914
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591241646734
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591241707551
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591241767717
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591241827858
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591241892684
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591249795024
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591278798285
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591286252588
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591286267194
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591286281663
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591286293932
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591286354920
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591286405569
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591286470098
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591286535793
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591286593311
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591286645818
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591286729789
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591286790104
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591286825819
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591286891717
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591286945883
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287008845
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287076233
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287126472
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287224644
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287245460
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287309866
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287366523
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287446580
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287526375
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287573244
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287606259
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287668888
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287732873
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287785815
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287845629
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591287907824
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288003760
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288053823
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288086097
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288149696
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288211927
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288277441
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288360822
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288387738
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288485667
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288507657
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288568746
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288672831
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288695395
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288749031
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288811463
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288905000
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288927759
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591288991873
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591289058619
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591289111049
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591289169609
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591289270940
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591289304325
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591289371573
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591289389340
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591289421337
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591296056962
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296074682
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296089497
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296103910
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296150450
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296151948
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296210529
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296271164
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296323726
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296393807
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296448733
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296509198
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296562764
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296628107
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296700925
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296741286
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296820294
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296893847
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296927027
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591296987861
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297061228
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297141314
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297160428
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297264239
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297305253
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297378674
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297442165
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297481162
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297521252
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297545703
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297589061
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297640332
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297742191
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297787406
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297839421
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297872133
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297909872
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297931967
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591297993608
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298050542
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298081432
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298152944
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298181358
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298252688
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298332652
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298353438
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298432414
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298475109
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298533238
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298593262
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298654263
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298712122
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298773255
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298851310
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298893255
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591298954450
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591299012239
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591299073448
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591299133248
+sensor_wifi,40:e3:d6:d2:ac:02,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591299193423
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591299256223
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591299313152
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591299400274
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591299461242
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591299493336
+sensor_wifi,40:e3:d6:d2:c2:c2,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591299556231
+sensor_wifi,04:bd:88:4d:58:62,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591299621285
+sensor_wifi,90:4c:81:cb:8b:61,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591299670914
+sensor_wifi,90:4c:81:bb:76:41,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591299728587
+sensor_wifi,40:e3:d6:ce:52:22,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591299791867
+sensor_wifi,40:e3:d6:ce:52:22,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""upmc-guest""",1591299864355
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591299906273
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591299970628
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591300026435
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591300109273
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591300149986
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591300215158
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591300271174
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591300331193
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591300393060
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591300456778
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591300520375
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591300580572
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591300651007
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591300692051
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591300753565
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591300807151
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591300865308
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591300925355
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591300985367
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591301063010
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591301144338
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591301168143
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591301227056
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591301294821
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591301412378
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591301429753
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591301480953
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591301487442
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591301546115
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591301606945
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591301666129
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591301754299
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591301786323
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591301846134
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591301913571
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591301967189
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302048611
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302099309
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302146177
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302213707
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302266131
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302358558
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302386334
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302450647
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302513799
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302566427
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302663295
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302689880
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302697805
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302752722
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302816501
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302866976
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302926989
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591302998747
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303059969
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303121721
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303174445
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303230060
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303275419
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303334430
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303389996
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303459009
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303522569
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303583700
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303632948
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303693268
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303759427
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303812370
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303872792
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303933087
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591303993488
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304007168
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304053249
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304118513
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304166767
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304239340
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304289649
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304350072
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304404727
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304464940
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304524566
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304592021
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304645288
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304725358
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304790108
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304863310
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304890442
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591304958264
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591305019405
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591305066846
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591305066875
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591305128503
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591305191817
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591305255371
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591305315648
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591305375697
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591305436009
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591305494064
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591305554710
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591305615250
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591305677022
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591305735060
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591305795444
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591305855807
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591305916207
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591305976781
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306037313
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306097708
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306158162
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306218636
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306268929
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306329072
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306390342
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306450076
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306530614
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306598362
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306658536
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306719406
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306748708
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306837906
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306884938
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306886813
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591306966920
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307027948
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307088927
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307149876
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307210105
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307270953
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307313490
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307367954
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307452910
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307498002
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307574958
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307640974
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307696944
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307765941
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307818960
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307883959
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307947987
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591307966914
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308027856
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308087808
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308192464
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308225927
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308266912
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308339553
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308386158
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308489862
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308506985
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308583422
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308664800
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308711780
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308788907
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308807781
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308868921
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591308929563
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309012841
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309088910
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309113448
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309210957
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309271535
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309331856
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309346518
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309410992
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309497043
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309534303
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309586571
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309649857
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309707903
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309771510
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309833039
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309892581
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591309953813
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310013656
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310084557
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310130774
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310196863
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310248248
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310309708
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310370511
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310430720
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310491543
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310493678
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310553323
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310613659
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310678519
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310734940
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310802021
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310856918
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310917904
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591310979056
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311040916
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311101927
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311162830
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311222932
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311276154
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311337929
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311400938
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311469938
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311532007
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311591868
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311652963
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311712900
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311780047
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311834813
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311895976
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591311955877
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312016052
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312079006
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312139957
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312201048
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312265818
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312283113
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312328185
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312388826
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312448837
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312510480
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312569853
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312634963
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312689952
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312754981
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312813014
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312877136
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312934011
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591312998164
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591313054130
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591313115577
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591313171267
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591313252389
+sensor_wifi,,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,<unknown ssid>,1591313291309
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591313381331
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591313422436
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591313476168
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591313540720
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591313601630
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591313659820
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591313714296
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591313773184
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591313830833
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591313902343
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591313950125
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314014543
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314066855
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314128044
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314195715
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314254248
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314304482
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314370943
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314427448
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314488518
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314550516
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314620118
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314675521
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314734937
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314791916
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314844546
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314904842
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591314966614
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591315034520
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591315085516
+sensor_wifi,54:a6:5c:b5:ee:f5,65da153d-8d80-4b3f-a5c5-ce96654be937,512SO,02:00:00:00:00:00,"""Salerno family""",1591315156756

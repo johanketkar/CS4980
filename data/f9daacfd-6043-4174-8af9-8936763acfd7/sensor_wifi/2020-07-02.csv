@@ -1,0 +1,1411 @@
+name,bssid,device_id,device_label,mac_address,ssid,timestamp
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648003686
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648063465
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648123469
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648183467
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648243464
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648303467
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648363467
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648423465
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648483565
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648543558
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648603460
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648663598
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648723461
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648783561
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648843464
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648903466
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593648963463
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593649023549
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593649083467
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593649143468
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593649203465
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593649263466
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593649323473
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593649383466
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593649443474
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593649503561
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593649563470
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593649623475
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593649683560
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593649743572
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593649803477
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593649863477
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593649923561
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593649983568
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650043475
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650103476
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650163471
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650223474
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650283483
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650343480
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650403476
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650463530
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650523479
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650583477
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650643480
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650703496
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650763476
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650823481
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650883500
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593650943559
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651003483
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651063474
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651123478
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651183479
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651243477
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651303479
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651363473
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651423480
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651483479
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651543478
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651603498
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651663494
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651723477
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651783474
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651843478
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651903494
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593651963481
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652023480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652083479
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652143498
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652203479
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652263482
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652323484
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652383498
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652443480
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652503475
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652563474
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652623571
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652683476
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652743483
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652803479
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652863481
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652923479
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593652983482
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653043481
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653103482
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653163481
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653223480
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653283558
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653343579
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653403484
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653463476
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653523478
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653583568
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653643484
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653703479
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653763482
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653823526
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653883481
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593653943482
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654003479
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654063487
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654123481
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654183479
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654243479
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654303534
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654363480
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654423476
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654483473
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654543581
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654603478
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654663475
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654723510
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654783570
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654843476
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654903472
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593654963476
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655023502
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655083473
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655143490
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655203478
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655263570
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655323474
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655383491
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655443483
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655503531
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655563497
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655623477
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655683498
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655743569
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655803482
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655863480
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655923476
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593655983498
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656043481
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656103480
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656163478
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656223569
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656283477
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656343478
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656403480
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656463564
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656523477
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656583475
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656643479
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656703568
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656763473
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656823474
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656883572
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593656943480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657003476
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657063479
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657123479
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657183573
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657243471
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657303480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657363477
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657423502
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657483478
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657543474
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657603477
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657663573
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657723480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657783526
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657843476
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657903573
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593657963478
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658023479
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658083476
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658143497
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658203482
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658263480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658323483
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658383497
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658443480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658503477
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658563480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658623496
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658683476
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658743476
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658803480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658863571
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658923479
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593658983484
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659043479
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659103557
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659163479
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659223480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659283476
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659343515
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659403480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659463480
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659523478
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659583523
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659643480
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659703474
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659763472
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659823486
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659883478
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593659943479
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660003482
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660063508
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660123477
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660183480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660243476
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660303572
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660363482
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660423480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660483478
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660543511
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660603475
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660663478
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660723478
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660783482
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660843478
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660903480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593660963475
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661023544
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661083482
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661143482
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661203477
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661263577
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661323477
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661383475
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661443482
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661503547
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661563478
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661623477
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661683480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661743514
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661803488
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661863481
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661923491
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593661983576
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662043480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662103478
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662163475
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662223485
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662283478
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662343481
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662403479
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662463574
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662523481
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662583480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662643495
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662703490
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662763481
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662823483
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662883482
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593662943498
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663003479
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663063482
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663123481
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663183481
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663243481
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663303482
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663363479
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663423498
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663483482
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663543480
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663603491
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663663557
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663723477
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663783498
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663843480
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663903493
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593663963488
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664023489
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664083486
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664143486
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664203485
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664263481
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664323487
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664383497
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664443487
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664503483
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664563488
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664623507
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664683490
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664743489
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664803487
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664863544
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664923490
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593664983493
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665043491
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665103586
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665163489
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665223493
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665283488
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665343511
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665403498
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665463493
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665523492
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665583510
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665643494
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665703491
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665763493
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665823523
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665883486
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593665943481
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666003484
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666063502
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666123484
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666183483
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666243482
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666303488
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666363484
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666423482
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666483485
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666543489
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666603482
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666663480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666723485
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666783531
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666843485
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666903485
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593666963480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667023539
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667083481
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667143477
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667203476
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667263486
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667323480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667383484
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667443484
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667503485
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667563501
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667623495
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667683572
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667743529
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667803511
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667863478
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667923485
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593667983553
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668043475
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668103498
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668163480
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668223540
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668283524
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668343484
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668403482
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668463484
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668523482
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668583474
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668643483
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668703484
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668763508
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668823484
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668883483
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593668943480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593669003504
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593669063484
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593669123480
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593669183505
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593669243503
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593669303480
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593669363486
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593669423481
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593669483500
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593669543478
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593669603479
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593669663497
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593669723576
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593669783487
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593669843561
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593669903491
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593669963488
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670023590
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670083566
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670143481
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670203579
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670263574
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670323568
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670383567
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670443565
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670503586
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670563541
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670623573
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670683551
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670743481
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670803494
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670863491
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670923489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593670983485
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671043482
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671103495
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671163492
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671223489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671283486
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671343483
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671403498
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671463496
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671523489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671583486
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671643485
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671703499
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671763495
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671823492
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671883488
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593671943485
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672003498
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672063498
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672123547
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672183495
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672243491
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672303504
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672363581
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672423498
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672483496
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672543493
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672603489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672663553
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672723501
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672783498
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672843495
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672903509
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593672963505
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673023502
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673083500
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673143496
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673203494
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673263507
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673323514
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673383496
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673443499
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673503499
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673563515
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673623497
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673683498
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673743500
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673803565
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673863500
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673923501
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593673983498
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674043525
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674103499
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674163496
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674223499
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674283516
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674343497
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674403500
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674463500
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674523497
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674583498
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674643501
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674703498
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674763578
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674823502
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674883502
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593674943502
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675003518
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675063500
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675123502
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675183503
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675243501
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675303503
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675363504
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675423501
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675483576
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675543504
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675603502
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675663505
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675723544
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675783502
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675843505
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675903497
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593675963494
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676023491
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676083491
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676143496
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676203586
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676263490
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676323488
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676383490
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676443546
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676503487
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676563490
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676623490
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676683545
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676743490
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676803490
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676863487
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676923488
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593676983490
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677043487
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677103490
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677163584
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677223490
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677283485
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677343489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677403535
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677463489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677523489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677583487
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677643505
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677703489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677763486
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677823484
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677883511
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593677943486
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678003489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678063488
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678123570
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678183488
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678243488
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678303486
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678363505
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678423488
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678483486
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678543490
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678603487
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678663487
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678723488
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678783489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678843506
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678903489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593678963489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679023487
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679083553
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679143489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679203487
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679263489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679323505
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679383485
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679443489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679503489
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679563573
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679623484
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679683484
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679743481
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679803578
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679863483
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679923480
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593679983483
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680043499
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680103480
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680163482
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680223482
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680283493
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680343482
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680403482
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680463479
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680523498
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680583481
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680643478
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680703481
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680763519
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680823478
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680883480
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593680943480
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681003497
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681063480
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681123480
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681183477
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681243567
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681303479
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681363477
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681423479
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681483495
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681543476
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681603479
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681663478
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681723495
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681783478
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681843478
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681903493
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593681963497
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593682023480
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593682083478
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593682143480
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593682203496
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593682263478
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593682323478
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593682383480
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593682443497
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593682503480
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593682563485
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593682623484
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593682683481
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593682743484
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593682803481
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593682863483
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593682923500
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593682983481
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683043484
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683103484
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683163495
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683223482
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683283481
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683343478
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683403500
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683463476
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683523478
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683583480
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683643496
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683703477
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683763475
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683823480
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683883558
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593683943479
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684003479
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684063476
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684123479
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684183478
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684243475
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684303478
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684363494
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684423475
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684483476
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684543477
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684603494
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684663477
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684723475
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684783474
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684843532
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684903476
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593684963473
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685023473
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685083547
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685143474
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685203476
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685263476
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685323493
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685383477
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685443477
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685503474
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685563519
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685623476
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685683474
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685743473
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685803571
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685863475
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685923472
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593685983476
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686043568
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686103476
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686163476
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686223473
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686283492
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686343475
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686403473
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686463475
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686523489
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686583471
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686643474
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686703474
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686763564
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686823473
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686883474
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593686943471
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687003486
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687063473
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687123471
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687183473
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687243485
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687303470
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687363473
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687423472
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687483475
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687543472
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687603472
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687663470
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687723488
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687783473
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687843469
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687903472
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593687963500
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688023469
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688083471
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688143471
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688203488
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688263471
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688323468
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688383468
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688443524
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688503471
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688563468
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688623470
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688683545
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688743467
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688803467
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688863469
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688923486
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593688983469
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689043468
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689103466
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689163484
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689223469
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689283470
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689343469
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689403563
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689463464
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689523468
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689583468
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689643485
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689703468
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689763468
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689823465
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689883557
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593689943467
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690003465
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690063467
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690123480
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690183465
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690243467
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690303464
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690363489
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690423466
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690483466
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690543463
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690603790
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690663463
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690723463
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690783466
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690843465
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690903478
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593690963462
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691023465
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691083463
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691143481
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691203465
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691263461
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691323460
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691383475
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691443461
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691503464
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691563464
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691623481
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691683464
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691743464
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691803461
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691863489
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691923463
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593691983461
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692043463
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692103479
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692163459
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692223462
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692283462
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692343479
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692403462
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692463462
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692523460
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692583478
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692643462
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692703459
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692763462
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692823478
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692883459
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593692943461
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693003461
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693063554
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693123461
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693183461
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693243458
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693303477
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693363460
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693423456
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693483460
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693543555
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693603458
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693663460
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693723460
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693783477
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693843459
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693903458
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593693963456
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694023494
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694083458
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694143456
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694203459
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694263475
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694323456
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694383459
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694443458
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694503484
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694563458
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694623457
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694683460
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694743553
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694803457
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694863455
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694923458
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593694983513
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695043455
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695103458
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695163457
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695223459
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695283457
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695343456
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695403454
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695463465
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695523456
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695583453
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695643456
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695703460
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695763454
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695823456
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695883456
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593695943468
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696003458
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696063456
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696123453
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696183453
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696243451
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696303453
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696363455
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696423550
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696483452
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696543455
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696603454
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696663547
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696723454
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696783454
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696843452
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696903508
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593696963449
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697023449
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697083454
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697143464
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697203451
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697263453
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697323454
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697383470
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697443452
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697503453
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697563450
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697623546
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697683453
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697743449
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697803452
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697863534
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697923449
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593697983452
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593698043452
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593698103469
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593698163448
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593698223451
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593698283449
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593698343456
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593698403450
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593698463449
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593698523452
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593698583468
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593698643449
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593700503486
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593700563453
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593700623450
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593700683454
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593700743520
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593700803451
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593700863454
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593700923457
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593700983525
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593701043454
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593701103454
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593701163450
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593701223454
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593701283455
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593701343451
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593701403455
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593701463484
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593701523453
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593701583449
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593701643451
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593701703481
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593701763457
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593701823453
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593701883451
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593701943447
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593702003448
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593702063448
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593702123452
+sensor_wifi,90:58:51:d0:e0:e5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,xfinitywifi,1593702183479
+sensor_wifi,90:58:51:d0:e0:e5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,xfinitywifi,1593702243459
+sensor_wifi,90:58:51:d0:e0:e5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,xfinitywifi,1593702303462
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593702363450
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593702423467
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593702483449
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593702543449
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593702603447
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593702663529
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593702723447
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593702783453
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593702843450
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593702903539
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593702963447
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703023448
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703083447
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703143467
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703203450
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703263450
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703323448
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703383545
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703443450
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703503447
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703563450
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703623467
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703683448
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703743450
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703803451
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703863477
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703923451
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593703983451
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704043448
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704103465
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704163451
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704223448
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704283451
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704343451
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704403449
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704463451
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704523451
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704583468
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704643451
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704703452
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704763449
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704823546
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704883451
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593704943449
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705003452
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705063467
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705123449
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705183452
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705243451
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705303472
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705363455
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705423456
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705483453
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705543472
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705603456
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705663454
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705723456
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705783537
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705843452
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705903457
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593705963457
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706023537
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706083457
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706143457
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706203455
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706263539
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706323458
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706383455
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706443457
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706503475
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706563456
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706623459
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706683459
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706743509
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706803459
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706863459
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706923457
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593706983551
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707043458
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707103457
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707163464
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707223554
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707283460
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707343458
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707403466
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707463478
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707523460
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707583464
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707643465
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707703485
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707763471
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707823468
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707883467
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593707943563
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708003481
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708063474
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708123470
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708183492
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708243476
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708303477
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708363475
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708423561
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708483480
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708543482
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708603482
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708663506
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708723480
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708783484
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708843485
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708903578
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593708963480
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709023479
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709083477
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709143507
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709203482
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709263483
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709323487
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709383574
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709443483
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709503483
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709563486
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709623490
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709683487
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709743488
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709803487
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709863526
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709923490
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593709983487
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710043486
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710103573
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710163493
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710223493
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710283493
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710343583
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710403494
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710463495
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710523493
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710583587
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710643497
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710703495
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710763498
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710823987
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710883496
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593710943500
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711003500
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711063522
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711123559
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711183499
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711243498
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711303503
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711363504
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711423502
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711483505
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711543506
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711603515
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711663507
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711723507
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711783505
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711843528
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711903513
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593711963511
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712023510
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712083516
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712143513
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712203511
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712263517
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712323535
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712383518
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712443519
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712503517
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712563532
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712623521
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712683518
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712743518
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712803536
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712863516
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712923520
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593712983521
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713043539
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713103522
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713163523
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713223521
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713283536
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713343525
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713403523
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713463526
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713523570
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713583525
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713643528
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713703527
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713763566
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713823529
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713883526
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593713943528
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714003626
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714063531
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714123530
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714183533
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714243550
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714303532
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714363540
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714423536
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714483661
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714543531
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714603526
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714663529
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714723548
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714783532
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714843530
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714903533
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593714963550
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715023531
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715083534
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715143535
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715203552
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715263536
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715323534
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715383536
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715443626
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715503535
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715563537
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715623542
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715683636
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715743539
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715803550
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715863545
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715923630
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593715983545
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716043548
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716103546
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716163557
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716223550
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716283549
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716343552
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716403626
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716463551
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716523555
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716583554
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716643622
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716703557
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716763555
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716823556
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716883616
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593716943558
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717003559
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717063562
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717123561
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717183561
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717243565
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717303565
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717363563
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717423567
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717483568
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717543567
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717603586
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717663570
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717723569
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717783572
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717843589
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717903571
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593717963575
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718023576
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718083588
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718143574
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718203578
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718263575
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718323589
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718383579
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718443579
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718503582
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718563668
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718623602
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718683576
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718743575
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718803579
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718863575
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718923578
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593718983578
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719043616
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719103579
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719163575
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719223581
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719283584
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719343580
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719403576
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719463584
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719523674
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719583582
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719643590
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719703588
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719763618
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719823595
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719883588
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593719943592
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720003686
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720063591
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720123597
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720183602
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720243690
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720303597
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720363600
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720423599
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720483618
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720543603
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720603601
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720663605
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720723696
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720783606
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720843601
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720903609
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593720963698
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721023602
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721083608
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721143606
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721203622
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721263605
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721323609
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721383611
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721443629
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721503611
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721563614
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721623614
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721683625
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721743615
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721803615
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721863621
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721923709
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593721983616
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593722043617
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593722103616
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593722163704
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593722223614
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593722283632
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593722343621
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593722403625
+sensor_wifi,60:3d:26:b4:17:6b,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,HomeTK1,1593722463630
+sensor_wifi,60:3d:26:b4:17:6b,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,HomeTK1,1593722523624
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593722583631
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593722643664
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593722703630
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593722763628
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593722823631
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593722883634
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593722943623
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593723003633
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593723063634
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593723123638
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593723183653
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593723243639
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593723303675
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593723363714
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593723423632
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593723483633
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593723543629
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593723603729
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593723663633
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593723723633
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593723783640
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593723843725
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593723903659
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593723963634
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593724023705
+sensor_wifi,,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,,1593724083729
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593724143636
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593724203633
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593724263633
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593724323675
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593724383628
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593724443634
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593724503636
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593724563698
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593724623635
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593724683633
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593724743641
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593724803638
+sensor_wifi,80:2a:a8:d4:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593724863635
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593724923632
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593724983629
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725043729
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725103630
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725163636
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725223631
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725283724
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725343631
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725403633
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725463720
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725523635
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725583634
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725643636
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725703633
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725763735
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725823635
+sensor_wifi,80:2a:a8:d5:ba:9c,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725883637
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593725943641
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726003713
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726063641
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726123633
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726183663
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726243643
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726303638
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726363636
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726423639
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726483729
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726543644
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726603642
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726663640
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726723730
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726783636
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726843637
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726903667
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593726963729
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727023638
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727083642
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727143640
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727203728
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727263637
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727323638
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727383641
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727443733
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727503634
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727563648
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727623636
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727683750
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727743644
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727803655
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727863642
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727923733
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593727983650
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728043645
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728103646
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728163735
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728223644
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728283646
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728343639
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728403740
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728463648
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728523647
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728583645
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728643741
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728703639
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728763646
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728823643
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728883744
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593728943642
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729003655
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729063650
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729123730
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729183657
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729243649
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729303647
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729363738
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729423651
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729483664
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729543653
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729603743
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729663650
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729723650
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729783648
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729843653
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729903651
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593729963649
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730023651
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730083649
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730143649
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730203651
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730263652
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730323873
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730383653
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730443651
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730503651
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730563654
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730623657
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730683647
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730743662
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730803654
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730863658
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730923653
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593730983654
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731043660
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731103659
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731163656
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731223654
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731283657
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731343659
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731403655
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731463654
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731523651
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731583653
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731643650
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731703650
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731763648
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731823653
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731883650
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593731943647
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732003650
+sensor_wifi,80:2a:a8:d4:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732063658
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732123652
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732183658
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732243643
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732303725
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732363640
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732423646
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732483648
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732543742
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732603649
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732663644
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732723659
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732783652
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732843647
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732903649
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593732963648
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733023710
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733083649
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733143645
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733203646
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733263651
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733323665
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733383656
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733443644
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733503739
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733563648
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733623648
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733683645
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733743647
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733803643
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733863646
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733923738
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593733983647
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593734043650
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593734103649
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593734163653
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593734223731
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593734283658
+sensor_wifi,82:2a:a8:d5:ba:f5,f9daacfd-6043-4174-8af9-8936763acfd7,169KS,,The Dude Abides,1593734343648

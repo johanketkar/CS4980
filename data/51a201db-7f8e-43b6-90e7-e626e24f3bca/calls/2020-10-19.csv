@@ -1,0 +1,3 @@
+index,name,call_duration,call_type,device_id,device_label,timestamp,trace
+10242,calls,0.0,3.0,51a201db-7f8e-43b6-90e7-e626e24f3bca,135KM,1603116207643,b94fd1b422de72148ee3e8a7e8543f412e77236e
+10243,calls,135.0,1.0,51a201db-7f8e-43b6-90e7-e626e24f3bca,135KM,1603122107208,691179152b42bf8903ea358788ac63e7d5c0c25c

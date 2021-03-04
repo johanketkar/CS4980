@@ -1,0 +1,1442 @@
+name,bssid,device_id,device_label,mac_address,ssid,timestamp
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595721618587
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595721678584
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595721738585
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595721798584
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595721858664
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595721918587
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595721978586
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722038584
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722098627
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722158586
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722218585
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722278588
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722338584
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722398584
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722458588
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722518586
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722578681
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722638585
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722698585
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722758592
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722818660
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722878587
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722938584
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595722998593
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723058670
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723118588
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723178590
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723238594
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723298619
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723358590
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723418591
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723478595
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723538682
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723598595
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723658593
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723718595
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723778684
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723838596
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723898595
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595723958648
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724018687
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724078686
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724138686
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724198599
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724258686
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724318593
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724378596
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724438598
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724498630
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724558602
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724618603
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724678600
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724738693
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724798601
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724858598
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724918600
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595724978612
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725038605
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725098604
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725158603
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725218689
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725278604
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725338695
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725398692
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725458604
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725518604
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725578606
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725638606
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725698699
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725758608
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725818607
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725878615
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725938709
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595725998614
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726058610
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726118615
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726178708
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726238613
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726298611
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726358614
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726418691
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726478613
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726538610
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726598612
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726658704
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726718614
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726778612
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726838614
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726898662
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595726958615
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727018613
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727078616
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727138707
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727198618
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727258618
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727318630
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727378711
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727438620
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727498617
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727558618
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727618694
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727678622
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727738616
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727798616
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727858667
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727918623
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595727978619
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728038623
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728098635
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728158624
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728218620
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728278621
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728338700
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728398621
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728458626
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728518623
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728578717
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728638623
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728698622
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728758622
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728818716
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728878622
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728938628
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595728998624
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729058625
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729118629
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729178625
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729238625
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729298642
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729358629
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729418630
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729478630
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729538692
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729598623
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729658631
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729718631
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729778631
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729838628
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729898626
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595729958628
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730018722
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730078630
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730138628
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730198631
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730258703
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730318634
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730378634
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730438630
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730498725
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730558631
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730618637
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730678633
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730738647
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730798637
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730858634
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730918634
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595730978635
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731038634
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731098634
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731158639
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731218642
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731278640
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731338637
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731398641
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731458648
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731518639
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731578643
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731638642
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731698654
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731758639
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731818637
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731878638
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731938643
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595731998641
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732058633
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732118635
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732178640
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732238638
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732298641
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732358639
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732418716
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732478642
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732538639
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732598643
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732658638
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732718644
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732778640
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732838640
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732898725
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595732958642
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733018637
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733078643
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733138713
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733198640
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733258639
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733318642
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733378735
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733438638
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733498645
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733558645
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733618641
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733678639
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733738646
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733798642
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733858639
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733918643
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595733978646
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734038646
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734098646
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734158643
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734218639
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734278646
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734338646
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734398686
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734458639
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734518643
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734578649
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734638731
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734698648
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734758646
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734818648
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734878736
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734938648
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595734998647
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735058646
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735118738
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735178642
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735238675
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735298739
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735358647
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735418644
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735478642
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735538651
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735598737
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735658643
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735718646
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735778642
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735838648
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735898647
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595735958651
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736018644
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736078736
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736138652
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736198657
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736258649
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736318737
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736378653
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736438650
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736498649
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736558744
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736618653
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736678649
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736738654
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736798746
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736858652
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736918651
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595736978653
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737038747
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737098656
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737158655
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737218656
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737278734
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737338650
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737398657
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737458654
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737518655
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737578654
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737638657
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737698655
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737758657
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737818658
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737878658
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737938659
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595737998703
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738058659
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738118661
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738178661
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738238744
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738298659
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738358660
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738418658
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738478751
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738538660
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738598661
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738658663
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738718748
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738778659
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738838662
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738898658
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595738958664
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739018663
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739078662
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739138660
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739198756
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739258664
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739318664
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739378663
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739438750
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739498663
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739558664
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739618660
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739678665
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739738665
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739798666
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739858666
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739918744
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595739978664
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740038662
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740098664
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740158753
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740218667
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740278666
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740338666
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740398661
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740458662
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740518658
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740578661
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740638706
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740698662
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740758660
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740818657
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740878660
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740938662
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595740998660
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741058657
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741118691
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741178658
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741238659
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741298662
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741358658
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741418659
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741478661
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741538661
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741598667
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741658659
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741718661
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741778657
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741838725
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741898658
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595741958658
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742018661
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742078687
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742138660
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742198661
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742258661
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742318670
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742378658
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742438661
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742498658
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742558657
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742618661
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742678657
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742738657
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742798656
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742858658
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742918654
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595742978657
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743038653
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743098653
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743158657
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743218653
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743278657
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743338654
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743398657
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743458657
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743518681
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743578652
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743638656
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743698656
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743758751
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743818656
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743878651
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743938651
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595743998715
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744058652
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744118655
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744178655
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744238681
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744298655
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744358655
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744418650
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744478682
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744538650
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744598654
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744658654
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744718743
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744778649
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744838650
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744898651
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595744958735
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745018648
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745078650
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745138650
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745198730
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745258649
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745318649
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745378649
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745438687
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745498648
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745558645
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745618648
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745678687
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745738647
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745798643
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745858643
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745918647
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595745978647
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746038645
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746098646
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746158671
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746218641
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746278644
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746338644
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746398737
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746458640
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746518645
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746578641
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746638731
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746698644
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746758640
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746818641
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746878661
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746938640
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595746998644
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747058644
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747118739
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747178644
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747238644
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747298644
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747358739
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747418641
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747478640
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747538643
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747598684
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747658634
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747718629
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747778633
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747838628
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747898632
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595747958632
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748018626
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748078686
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748138629
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748198630
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748258628
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748318701
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748378630
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748438629
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748498624
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748558638
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748618628
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748678637
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748738623
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748798712
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748858622
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748918626
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595748978623
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749038627
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749098623
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749158621
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749218624
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749278705
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749338620
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749398620
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749458618
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749518703
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749578623
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749638618
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749698619
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749758702
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749818618
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749878621
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749938617
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595749998620
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750058625
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750118620
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750178624
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750238621
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750298619
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750358619
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750418623
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750478634
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750538623
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750598623
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750658622
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750718708
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750778623
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750838622
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750898622
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595750958665
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751018621
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751078621
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751138616
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751198632
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751258614
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751318615
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751378616
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751438661
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751498615
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751558611
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751618610
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751678678
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751738611
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751798614
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751858614
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751918641
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595751978610
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752038612
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752098613
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752158619
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752218612
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752278611
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752338609
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752398706
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752458609
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752518609
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752578608
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752638606
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752698606
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752758609
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752818609
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752878669
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752938608
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595752998604
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753058603
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753118605
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753178606
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753238606
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753298606
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753358645
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753418605
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753478604
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753538607
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753598607
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753658607
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753718607
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753778602
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753838622
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753898607
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595753958606
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754018606
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754078606
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754138603
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754198605
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754258605
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754318626
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754378602
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754438601
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754498604
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754558618
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754618600
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754678603
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754738602
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754798617
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754858603
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754918603
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595754978599
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755038697
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755098602
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755158602
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755218598
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755278648
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755338601
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755398600
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755458597
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755518695
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755578600
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755638599
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755698598
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755758609
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755818598
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755878597
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755938597
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595755998594
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756058597
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756118596
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756178594
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756238592
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756298596
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756358591
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756418595
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756478594
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756538595
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756598590
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756658594
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756718639
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756778594
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756838593
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756898593
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595756958671
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757018593
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757078593
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757138587
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757198598
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757258592
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757318592
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757378591
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757438668
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757498589
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757558587
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757618590
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757678601
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757738588
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757798589
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757858587
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757918660
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595757978586
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758038584
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758098586
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758158596
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758218586
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758278581
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758338585
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758398616
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758458582
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758518581
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758578581
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758638657
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758698580
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758758580
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758818580
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758878616
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758938578
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595758998578
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759058578
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759118619
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759178574
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759238577
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759298575
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759358667
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759418576
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759478576
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759538575
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759598648
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759658574
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759718574
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759778574
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759838614
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759898573
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595759958572
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760018572
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760078578
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760138571
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760198566
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760258566
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760318578
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760378566
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760438569
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760498569
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760558643
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760618564
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760678567
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760738567
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760798668
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760858573
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760918573
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595760978573
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761038579
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761098569
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761158572
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761218571
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761278589
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761338568
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761398570
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761458568
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761518571
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761578569
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761638571
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761698568
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761758676
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761818566
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761878569
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761938569
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595761998564
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762058638
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762118561
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762178562
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762238564
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762298568
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762358564
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762418564
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762478561
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762538560
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762598561
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762658563
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762718563
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762778644
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762838562
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762898562
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595762958562
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763018590
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763078561
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763138560
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763198560
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763258564
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763318559
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763378559
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763438559
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763498596
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763558555
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763618555
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763678554
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763738561
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763798558
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763858557
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763918557
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595763978560
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764038565
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764098553
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764158556
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764218607
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764278555
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764338555
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764398557
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764458592
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764518557
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764578557
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764638557
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764698588
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764758555
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764818556
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764878556
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764938594
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595764998556
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765058551
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765118552
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765178614
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765238550
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765298555
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765358555
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765418549
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765478549
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765538554
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765598551
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765658617
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765718550
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765778551
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765838549
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765898610
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595765958549
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766018546
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766078549
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766138644
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766198548
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766258548
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766318547
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766378632
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766438547
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766498546
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766558543
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766618542
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766678545
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766738545
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766798542
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766858578
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766918543
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595766978545
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767038544
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767098558
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767158539
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767218544
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767278543
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767338608
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767398542
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767458542
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767518537
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767578637
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767638541
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767698536
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767758536
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767818537
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767878536
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767938538
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595767998542
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768058542
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768118544
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768178543
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768238541
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768298538
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768358540
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768418542
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768478537
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768538637
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768598542
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768658539
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768718538
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768778567
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768838541
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768898538
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595768958541
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769018558
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769078538
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769138537
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769198537
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769258574
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769318540
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769378540
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769438541
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769498570
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769558541
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769618536
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769678535
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769738616
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769798541
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769858532
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769918609
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595769978619
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770038534
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770098539
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770158538
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770218623
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770278537
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770338535
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770398541
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770458629
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770518537
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770578536
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770638543
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770698539
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770758539
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770818533
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770878541
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770938587
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595770998538
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771058542
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771118540
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771178624
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771238540
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771298540
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771358536
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771418633
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771478537
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771538539
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771598538
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771658634
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771718541
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771778540
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771838540
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771898585
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595771958539
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772018536
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772078535
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772138635
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772198539
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772258544
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772318538
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772378629
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772438536
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772498538
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772558537
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772618635
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772678538
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772738540
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772798538
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772858630
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772918541
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595772978542
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773038541
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773098631
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773158538
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773218543
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773278543
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773338632
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773398543
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773458542
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773518538
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773578630
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773638542
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773698540
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773758540
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773818585
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773878536
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773938539
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595773998537
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774058600
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774118538
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774178543
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774238543
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774298633
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774358543
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774418543
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774478543
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774538539
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774598542
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774658539
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774718543
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774778556
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774838543
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774898543
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595774958540
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775018539
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775078535
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775138533
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775198533
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775258593
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775318537
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775378534
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775438534
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775498627
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775558537
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775618536
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775678532
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775738591
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775798536
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775858536
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775918527
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595775978555
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776038536
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776098534
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776158535
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776218621
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776278534
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776338530
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776398534
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776458621
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776518533
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776578533
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776638530
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776698628
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776758528
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776818529
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776878533
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776938619
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595776998526
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777058528
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777118529
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777178621
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777238531
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777298528
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777358525
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777418615
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777478523
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777538528
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777598524
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777658603
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777718524
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777778526
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777838529
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777898618
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595777958528
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778018526
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778078522
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778138584
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778198524
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778258524
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778318609
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778378619
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778438528
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778498529
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778558524
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778618619
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778678526
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778738530
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778798530
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778858537
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778918534
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595778978534
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595779038533
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595779098541
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595779158534
+sensor_wifi,f8:bb:bf:ba:c6:d3,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595779218533
+sensor_wifi,f8:bb:bf:ba:c6:d3,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595779278530
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595779338584
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595779398530
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595779458531
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595779518528
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595779578548
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595779638530
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595779698528
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595779758530
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595779818548
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595779878530
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595779938530
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595779998530
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780058552
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780118530
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780178540
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780238530
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780298556
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780358530
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780418530
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780478530
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780538576
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780598531
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780658526
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780718530
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780778623
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780838530
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780898530
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595780958526
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781018624
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781078536
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781138536
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781198528
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781258610
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781318534
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781378536
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781438537
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781498597
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781558538
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781618539
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781678537
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781738593
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781798542
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781858539
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781918543
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595781978635
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782038543
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782098543
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782158563
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782218634
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782278544
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782338544
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782398545
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782458605
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782518543
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782578550
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782638546
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782698611
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782758545
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782818543
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782878547
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782938619
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595782998549
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595783058549
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595783118548
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595783178623
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595783238549
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595783298550
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595783358551
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595783418629
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595783478548
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595783538547
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595783598548
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595783658635
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595783718545
+sensor_wifi,f8:bb:bf:ff:b0:28,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595783778551
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595783838551
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595783898636
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595783958548
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784018551
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784078548
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784138644
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784198548
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784258548
+sensor_wifi,f8:bb:bf:bb:14:14,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784318558
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784378643
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784438552
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784498552
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784558552
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784618590
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784678548
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784738548
+sensor_wifi,f8:bb:bf:ff:b0:26,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784798548
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784858562
+sensor_wifi,f8:bb:bf:bb:14:13,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Eero Network,1595784918549
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595784978550
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785038548
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785098599
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785158546
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785218545
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785278546
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785338553
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785398550
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785458548
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785518546
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785578643
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785638550
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785698550
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785758550
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785818545
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785878550
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785938546
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595785998546
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786058587
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786118547
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786178550
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786238547
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786298639
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786358551
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786418551
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786478551
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786538566
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786598551
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786658547
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786718547
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786778646
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786838556
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786898554
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595786958597
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787018632
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787078556
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787138557
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787198553
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787258650
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787318556
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787378555
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787438557
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787498586
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787558556
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787618553
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787678553
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787738676
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787798555
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787858559
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787918558
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595787978649
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788038555
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788098566
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788158566
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788218599
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788278566
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788338643
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788398556
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788458682
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788518559
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788578560
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788638561
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788698600
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788758560
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788818556
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788878559
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788938645
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595788998556
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789058556
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789118560
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789132071
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789192077
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789252073
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789312075
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789372081
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789432190
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789492079
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789552075
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789612078
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789672165
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789732079
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789792078
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789852118
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789912166
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595789972162
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595790032175
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595790092171
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595790152118
+sensor_wifi,f4:db:e6:5e:9a:43,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,DFWAirportComplimentaryWi-Fi-24,1595790212175
+sensor_wifi,f4:db:e6:5e:9a:43,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,DFWAirportComplimentaryWi-Fi-24,1595790272175
+sensor_wifi,f4:db:e6:46:50:c3,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,DFWAirportComplimentaryWi-Fi-24,1595790332126
+sensor_wifi,f4:db:e6:28:7d:63,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,DFWAirportComplimentaryWi-Fi-24,1595790392168
+sensor_wifi,f4:db:e6:28:7d:63,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,DFWAirportComplimentaryWi-Fi-24,1595790452178
+sensor_wifi,f4:db:e6:5e:9a:43,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,DFWAirportComplimentaryWi-Fi-24,1595790512171
+sensor_wifi,f4:db:e6:5e:9a:43,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,DFWAirportComplimentaryWi-Fi-24,1595790572185
+sensor_wifi,f4:db:e6:5e:9a:43,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,DFWAirportComplimentaryWi-Fi-24,1595790632089
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595790692189
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595790752203
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595790812182
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595790872184
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595790932195
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595790992183
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791052186
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791112182
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791172182
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791232173
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791292096
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791352160
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791412097
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791472106
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791532118
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791592200
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791652121
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791712169
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791772122
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791832100
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791892101
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595791952118
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792012134
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792072186
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792132186
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792192155
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792252182
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792312155
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792372153
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792432156
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792492185
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792552187
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792612112
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792672099
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792732099
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792792154
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792852129
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792912122
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595792972187
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793032131
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793092160
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793152130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793212178
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793272183
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793332184
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793392195
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793452189
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793512185
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793572184
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793632187
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793692195
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793752194
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793812190
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793872185
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793932194
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595793992198
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794052192
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794112191
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794172196
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794232189
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794292194
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794352199
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794412191
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794472198
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794532192
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794592199
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794652197
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794712167
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794772191
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794832197
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794892196
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595794952192
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795012203
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795072203
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795132201
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795192204
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795252193
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795312145
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795372196
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795432167
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795492202
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795552205
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795612204
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795672197
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795732205
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795792198
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795852205
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795912208
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595795972208
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796032201
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796092139
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796152207
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796212152
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796272208
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796332201
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796392210
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796452209
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796512210
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796572201
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796632207
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796692211
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796752182
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796812210
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796872212
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796932184
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595796992209
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797052206
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797112213
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797172209
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797232205
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797292206
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797352214
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797412213
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797472210
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797532203
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797592194
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797652188
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797712214
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797772207
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797832212
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797892217
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595797952217
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798012212
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798072211
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798132209
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798192213
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798252206
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798312219
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798372201
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798432217
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798492126
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798552121
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798612122
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798672135
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798732222
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798792122
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798852203
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798912139
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595798972184
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799032184
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799092188
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799152188
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799212203
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799272140
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799332126
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799392205
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799452205
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799512199
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799572205
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799632204
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799692206
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799752166
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799812160
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799872220
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799932196
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595799992223
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800052162
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800112225
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800172215
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800232207
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800292217
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800352205
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800412205
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800472155
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800532209
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800592169
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800652166
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800712169
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800772166
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800832170
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800892167
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595800952170
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801012171
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801072171
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801132196
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801192206
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801252232
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801312206
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801372211
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801432147
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801492192
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801552208
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801612162
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801672145
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801732163
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801792209
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801852206
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595801912146
+sensor_wifi,d8:84:66:63:4a:d0,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595801972154
+sensor_wifi,d8:84:66:63:2e:20,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595802032153
+sensor_wifi,d8:84:66:63:2c:d0,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595802092190
+sensor_wifi,d8:84:66:63:32:60,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595802152217
+sensor_wifi,d8:84:66:63:49:a0,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595802212199
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595802272196
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595802332217
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595802392213
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595802452212
+sensor_wifi,d8:84:66:0c:35:d0,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595802512221
+sensor_wifi,d8:84:66:0c:35:80,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595802572209
+sensor_wifi,d8:84:66:0c:35:88,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595802632161
+sensor_wifi,d8:84:66:0c:35:88,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595802692218
+sensor_wifi,d8:84:66:0c:35:88,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595802752162
+sensor_wifi,d8:84:66:0c:35:88,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595802812217
+sensor_wifi,d8:84:66:0c:35:88,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595802872163
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595802932205
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595802992166
+sensor_wifi,d8:84:66:0c:35:80,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595803052225
+sensor_wifi,d8:84:66:0c:35:80,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595803112170
+sensor_wifi,d8:84:66:0c:35:80,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595803172170
+sensor_wifi,d8:84:66:0c:35:80,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595803232164
+sensor_wifi,d8:84:66:0c:35:80,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595803292220
+sensor_wifi,d8:84:66:0c:2e:c8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595803352166
+sensor_wifi,d8:84:66:0c:2e:c8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,FlyPittsburgh,1595803412229
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595803472223
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595803532163
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595803592128
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595803652124
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595803712128
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595803772128
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595803832129
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595803892126
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595803952128
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804012128
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804072130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804132130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804192126
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804252127
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804312130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804372130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804432126
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804492129
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804552162
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804612129
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804672125
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804732129
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804792225
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804852130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804912130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595804972223
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805032222
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805092125
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805152131
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805212131
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805272129
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805332131
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805392128
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805452132
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805512224
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805572127
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805632128
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805692132
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805752129
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805812127
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805872130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805932132
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595805992132
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806052130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806112132
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806172130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806232163
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806292128
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806352131
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806412132
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806472130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806532128
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806592130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806652130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806712218
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806772128
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806832132
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806892130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595806952127
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807012132
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807072130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807132128
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807192158
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807252131
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807312130
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807372128
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807432140
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807492126
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807552129
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807612129
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807672127
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807732124
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807792123
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807852127
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807912221
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1595807972133

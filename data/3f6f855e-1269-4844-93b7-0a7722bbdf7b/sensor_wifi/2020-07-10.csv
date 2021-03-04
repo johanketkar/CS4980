@@ -1,0 +1,581 @@
+name,bssid,device_id,device_label,mac_address,ssid,timestamp
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594390809820
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594390869824
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594390929825
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594390989825
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594391049858
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594391109909
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594391169821
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594391229827
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594391289827
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594391349843
+sensor_wifi,c4:13:e2:5e:89:a9,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594391409828
+sensor_wifi,c4:13:e2:5e:89:a9,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594391469825
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594391529828
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594391589848
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594391649828
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594391709823
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594391769828
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594391829881
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594391889827
+sensor_wifi,c4:13:e2:5e:c3:d6,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594391949827
+sensor_wifi,c4:13:e2:5e:c3:d6,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392009823
+sensor_wifi,c4:13:e2:5e:c3:d6,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392069826
+sensor_wifi,c4:13:e2:5e:89:97,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392129824
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392189827
+sensor_wifi,c4:13:e2:5e:89:a9,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392249827
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392309822
+sensor_wifi,c4:13:e2:5e:89:a9,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392369825
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392429827
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392489827
+sensor_wifi,c4:13:e2:5e:89:a9,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392549904
+sensor_wifi,c4:13:e2:5e:89:a9,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392609826
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392669826
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392729909
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392789861
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392849822
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392909824
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594392969826
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393029893
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393089826
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393149826
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393209822
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393269898
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393329821
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393389824
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393449826
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393509854
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393569826
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393629824
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393689821
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393749822
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393809825
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393869821
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393929825
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594393989843
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394049825
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394109825
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394169825
+sensor_wifi,c4:13:e2:5e:89:97,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394229880
+sensor_wifi,c4:13:e2:5e:89:97,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394289819
+sensor_wifi,c4:13:e2:5e:89:97,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394349816
+sensor_wifi,c4:13:e2:5e:89:97,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394409816
+sensor_wifi,c4:13:e2:5e:c3:d6,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394469818
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394529813
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394589818
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394649813
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394709833
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394769817
+sensor_wifi,c4:13:e2:5e:89:a9,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394829816
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394889815
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594394949853
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395009816
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395069815
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395129815
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395189897
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395249811
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395309810
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395369815
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395429811
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395489814
+sensor_wifi,c4:13:e2:5e:c3:d6,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395549811
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395609814
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395669829
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395729813
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395789813
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395849813
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395909828
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594395969812
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396029812
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396089807
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396149893
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396209811
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396269811
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396329811
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396389864
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396449810
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396509810
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396569810
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396629905
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396689810
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396749807
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396809809
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396869823
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396929809
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594396989806
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397049809
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397109822
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397169808
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397229807
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397289809
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397349855
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397409804
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397469804
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397529808
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397589844
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397649807
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397709806
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397769807
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397829819
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397889806
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594397949803
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398009806
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398069803
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398129805
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398189803
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398249804
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398309817
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398369805
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398429805
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398489800
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398549857
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398609804
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398669804
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398729798
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398789858
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398849803
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398909803
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594398969802
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399029885
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399089799
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399149802
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399209798
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399269797
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399329801
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399389824
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399449801
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399509797
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399569800
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399629800
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399689797
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399749877
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399809798
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399869795
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399929796
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594399989839
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400049796
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400109799
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400169793
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400229875
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400289795
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400349843
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400409798
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400469871
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400529792
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400589797
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400649793
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400709876
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400769792
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400829796
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400889791
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594400949885
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401009795
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401069795
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401129795
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401189790
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401249795
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401309794
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401369790
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401429856
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401489791
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401549787
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401609790
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401669791
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401729790
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401789790
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401849787
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401909856
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594401969789
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402029788
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402089786
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402149795
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402209788
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402269788
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402329783
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402389794
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402449787
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402509786
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402569786
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402629821
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402689786
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402749782
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402809781
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402869806
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402929785
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594402989785
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403049784
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403109790
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403169784
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403229779
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403289783
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403349877
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403409783
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403469777
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403529782
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403589877
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403649782
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403709781
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403769781
+sensor_wifi,c4:13:e2:5e:89:a9,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403829875
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403889781
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594403949776
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404009776
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404069851
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404129779
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404189776
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404249779
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404309850
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404369778
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404429778
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404489778
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404549852
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404609779
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404669776
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404729777
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404789788
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404849778
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404909778
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594404969773
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405029795
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405089777
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405149776
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405209776
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405269782
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405329775
+sensor_wifi,c4:13:e2:5e:89:a9,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405389773
+sensor_wifi,c4:13:e2:5e:89:97,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405449776
+sensor_wifi,c4:13:e2:5e:89:97,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405509862
+sensor_wifi,c4:13:e2:5e:89:97,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405569770
+sensor_wifi,c4:13:e2:5e:89:97,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405629771
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405689774
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405749840
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405809769
+sensor_wifi,c4:13:e2:5e:c3:d6,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405869773
+sensor_wifi,c4:13:e2:5e:c3:d6,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405929768
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594405989842
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406049772
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406109772
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406169772
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406229834
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406289771
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406349771
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406409771
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406469793
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406529770
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406589765
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406649770
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406709838
+sensor_wifi,c4:13:e2:5e:89:a9,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406769769
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406829765
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406889769
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594406949765
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594407009768
+sensor_wifi,c4:13:e2:5e:89:97,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594407069768
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594407129768
+sensor_wifi,c4:13:e2:5e:89:a9,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594407189855
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594407249767
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594407309767
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594407369762
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594407429767
+sensor_wifi,c4:13:e2:5e:89:97,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594407489766
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594407549763
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594407609763
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594407669799
+sensor_wifi,c4:13:e2:5e:c3:e8,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Chick-fil-A Wi-Fi,1594407729765
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594407789762
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594407849761
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594407909762
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594407969762
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408029839
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408089848
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408149765
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408209850
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408269793
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408329769
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408389768
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408449769
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408509761
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408569829
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408629801
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408689767
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408749768
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408809826
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408869830
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408929863
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594408989833
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594409049847
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594409109822
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594409169868
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594409229781
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594409289776
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594409349779
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594409409878
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594409469785
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594409529785
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594409589782
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594409649880
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594409709788
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594409769786
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594409829787
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594409889879
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594409949791
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410009785
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410069788
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410129880
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410189784
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410249784
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410309882
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410369787
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410429789
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410489790
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410549789
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410609885
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410669788
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410729793
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410789790
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410849865
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410909793
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594410969790
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411029791
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411089887
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411149796
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411209792
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411269792
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411329805
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411389795
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411449796
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411509795
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411569888
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411629796
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411689792
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411749794
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411809892
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411869795
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411929798
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594411989798
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412049889
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412109798
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412169799
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412229801
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412289892
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412349798
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412409801
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412469804
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412529887
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412589802
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412649801
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412709792
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412769885
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412829796
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412889797
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594412949794
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413009890
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413069796
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413129797
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413189792
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413249886
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413309795
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413369795
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413429797
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413489881
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413549793
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413609798
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413669796
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413729885
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413789792
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413849796
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413909793
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594413969851
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414029802
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414089798
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414149802
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414209798
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414269800
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414329803
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414389799
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414449820
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414509803
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414569800
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414629802
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414689863
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414749801
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414809800
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414869799
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414929884
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594414989798
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594415049798
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594415109800
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594415169826
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594415229797
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594415289795
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594415349794
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594415409893
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594415469798
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594415529798
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594415589798
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594415649868
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594415709798
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594415769794
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594415829794
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594415889823
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594415949791
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416009797
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416069797
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416129849
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416189794
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416249792
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416309797
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416369819
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416429796
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416489878
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416549797
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416609873
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416669796
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416729794
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416789793
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416849885
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416909793
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594416969800
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417029796
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417089796
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417149790
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417209805
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417269803
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417329802
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417389806
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417449807
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417509807
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417569807
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417629807
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417689805
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417749807
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417809806
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417869807
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417929807
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594417989808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418049916
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418109808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418169803
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418229808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418289809
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418349807
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418409809
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418469814
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418529883
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418589810
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418649809
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418709809
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418769887
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418829807
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418889808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594418949808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419009878
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419069805
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419129807
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419189808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419250175
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419309809
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419369807
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419429809
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419489805
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419549831
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419609808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419669808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419729808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419789808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419849808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419909808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594419969808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420029820
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420089808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420149808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420209804
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420269822
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420329806
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420389805
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420449809
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420509809
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420569809
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420629826
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420689810
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420749806
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420809810
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420869808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420929810
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594420989810
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421049810
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421109806
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421169807
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421229823
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421289811
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421349811
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421409811
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421469825
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421529808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421589808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421649808
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421709823
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421769811
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421829853
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421889943
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594421949816
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594422009810
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594422069810
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594422129809
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594422189810
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594422249810
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594422309807
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594422369810
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594422429810
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594422489810
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594422549809
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594422609904
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594422669809
+sensor_wifi,,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,,1594422729808
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594422789812
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594422849888
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594422909811
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594422969811
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423029814
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423089807
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423149901
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423209811
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423269809
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423329812
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423389813
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423449807
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423509808
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423569809
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423629808
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423689813
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423749812
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423809809
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423869898
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423929811
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594423989809
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424049809
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424109902
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424169809
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424229813
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424289810
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424349810
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424409813
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424469813
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424529813
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424589908
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424649814
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424709814
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424769814
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424829810
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424889814
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594424949812
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594425009813
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594425069821
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594425129814
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594425189810
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594425249814
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594425309867
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594425369812
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594425429814
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594425489814
+sensor_wifi,2c:99:24:32:2c:69,3f6f855e-1269-4844-93b7-0a7722bbdf7b,63WN,,Wilkin Wireless,1594425549821

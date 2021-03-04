@@ -1,0 +1,17 @@
+name,activities,automotive,confidence,cycling,device_id,device_label,label,running,stationary,timestamp,unknown,walking
+plugin_ios_activity_recognition,"[""walking""]",0,1,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,,0,0,1593993158045,0,1
+plugin_ios_activity_recognition,,0,2,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,,0,0,1593993214772,0,0
+plugin_ios_activity_recognition,"[""walking""]",0,1,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,,0,0,1593993217349,0,1
+plugin_ios_activity_recognition,"[""walking""]",0,2,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,,0,0,1593993225359,0,1
+plugin_ios_activity_recognition,"[""stationary""]",0,2,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,,0,1,1593993237283,0,0
+plugin_ios_activity_recognition,"[""walking""]",0,2,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,,0,0,1593993275640,0,1
+plugin_ios_activity_recognition,,0,2,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,,0,0,1593993276662,0,0
+plugin_ios_activity_recognition,"[""walking""]",0,1,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,,0,0,1593993307600,0,1
+plugin_ios_activity_recognition,"[""walking""]",0,2,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,,0,0,1593993312756,0,1
+plugin_ios_activity_recognition,"[""walking""]",0,2,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,supplement,0,0,1593993372756,0,1
+plugin_ios_activity_recognition,"[""walking""]",0,2,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,supplement,0,0,1593993432756,0,1
+plugin_ios_activity_recognition,,0,2,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,,0,0,1593993446795,0,0
+plugin_ios_activity_recognition,"[""walking""]",0,2,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,supplement,0,0,1593993492756,0,1
+plugin_ios_activity_recognition,"[""walking""]",0,2,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,,0,0,1593993493198,0,1
+plugin_ios_activity_recognition,"[""walking""]",0,2,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,supplement,0,0,1593993553198,0,1
+plugin_ios_activity_recognition,"[""stationary""]",0,2,0,646a728f-1fbd-42c4-88c5-775066313b53,231TW,,0,1,1593993587888,0,0

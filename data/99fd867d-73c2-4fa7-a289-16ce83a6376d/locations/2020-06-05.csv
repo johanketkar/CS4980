@@ -1,0 +1,2 @@
+index,name,accuracy,device_id,device_label,double_altitude,double_bearing,double_latitude,double_longitude,double_speed,provider,timestamp
+427330,locations,65.0,99fd867d-73c2-4fa7-a289-16ce83a6376d,219WT,411.1368408203125,-1.0,40.910133695587895,-80.03768568877109,-1.0,fused,1591382509039
